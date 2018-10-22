@@ -1,5 +1,5 @@
 # PHBS_MLF_2018
- Prediction model of stock price based on change of demand price elasticity 
+# Prediction model of stock price based on change of demand price elasticity 
 
 Motivation：
 
