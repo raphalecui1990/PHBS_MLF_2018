@@ -1,6 +1,8 @@
 # PHBS_MLF_2018
 # Prediction model of stock price based on change of demand price elasticity 
 
+# Team member： Cui Jianfu 1801213535
+
 Motivation：
 
 If we can predict stock prices five days from now with appropriate data and algorithms, we will solve two very important problems in the investment market:
